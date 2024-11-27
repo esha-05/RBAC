@@ -119,21 +119,4 @@ To run the project locally, follow these steps:
 
 [**RBAC UI Live**](https://rbac-vrv-security.vercel.app)
 
-## **Screenshots**
 
-### Dashboard
-
-![Dashboard](./public/images/dashboard.png)
-
-### User Management
-
-![User Management](./public/images/user.png)
-
-### Role Management
-
-![Role Management](./public/images/role.png)
-
-### Permission Management
-
-![Permission Management](./public/images/permission.png)
-# RBAC_VRV_SECURITY
